@@ -1,0 +1,6 @@
+{
+  "name": "Undercover Words: Social Deduction Game",
+  "description": "An online multiplayer social deduction word game where players must uncover the imposter using cunning clues and deduction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
